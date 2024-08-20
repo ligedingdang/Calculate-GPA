@@ -6,7 +6,7 @@ Using the Xuexin official template.
 
 Seeing the real-time GPA.
 ## How to use
-1、Use the template grade.xlsx, fill your course name in column 1, score in column 2, credit in column 3
+1、Open the template grade.xlsx, fill your course name in column 1, score in column 2, credit in column 3
 
 
 2、Run the main.py
